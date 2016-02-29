@@ -10,3 +10,9 @@ ____________
 2-24-01
 _____
 Working on SQL and PSQL. Creating databases in sublime and terminal.
+
+2-28-01
+
+____
+
+Restaurant Crud mostly working on promises and routes.
