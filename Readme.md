@@ -19,5 +19,9 @@ Restaurant Crud mostly working on promises and routes.
 ____
 2-29-2016
 
-Worked on Promises and eploying databases to heroku. https://coursework.galvanize.com/users/966/learning_experiences/1206
+Worked on Promises and employing databases to heroku. https://coursework.galvanize.com/users/966/learning_experiences/1206
+https://coursework.galvanize.com/users/966/learning_experiences/1305
+https://github.com/gSchool/promises-es6/blob/master/instructions/example/step-1.md
+
+
 
