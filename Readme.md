@@ -29,6 +29,8 @@ _____
 Continuing on CRUD and promises and routing. More practice on Crud Apps.
 Created Movie Crud
 https://github.com/gSchool/movie-inventory-crud
+Learnt about Knex.
+https://coursework.galvanize.com/users/966/learning_experiences/1319
 
 
 
