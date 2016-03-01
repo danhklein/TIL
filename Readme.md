@@ -23,5 +23,12 @@ Worked on Promises and employing databases to heroku. https://coursework.galvani
 https://coursework.galvanize.com/users/966/learning_experiences/1305
 https://github.com/gSchool/promises-es6/blob/master/instructions/example/step-1.md
 
+_____
+2-30-2016
+
+Continuing on CRUD and promises and routing. More practice on Crud Apps.
+Created Movie Crud
+https://github.com/gSchool/movie-inventory-crud
+
 
 
