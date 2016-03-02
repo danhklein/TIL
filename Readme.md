@@ -32,5 +32,10 @@ https://github.com/gSchool/movie-inventory-crud
 Learnt about Knex.
 https://coursework.galvanize.com/users/966/learning_experiences/1319
 
+3-02-2016
+____
+
+Worked on Knex using Library_crud exercise. https://github.com/danhklein/knex-migrations-and-deployment
+
 
 
