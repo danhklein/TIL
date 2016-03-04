@@ -37,5 +37,9 @@ ____
 
 Worked on Knex using Library_crud exercise. https://github.com/danhklein/knex-migrations-and-deployment
 
+3-03-2016
+_____
+Worked on service side validation
 
+https://github.com/danhklein/server-side-validations
 
