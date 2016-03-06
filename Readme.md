@@ -43,3 +43,7 @@ Worked on service side validation
 
 https://github.com/danhklein/server-side-validations
 
+3-05-2016
+
+____
+Started Knex refactoring for Restaurant_crud
